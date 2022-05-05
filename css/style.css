@@ -398,6 +398,7 @@ body {
 }
 ._body-active {
   overflow: hidden;
+  touch-action: none;
 }
 
 .find__block {
